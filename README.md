@@ -22,8 +22,8 @@ This repository contains two C++ programs that demonstrate **secure authenticati
 ## ⚙️ Compilation & Execution
 ```bash
 # Compile
-g++ PROGECTEXB2.cpp -o totp_auth
-g++ ProjectExb2new.cpp -o iot_auth
+g++ TOTP_XOR_Auth.cpp -o totp_auth
+g++ IoT_ECC_Auth.cpp -o iot_auth
 
 # Run
 ./totp_auth
