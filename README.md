@@ -3,10 +3,10 @@
 This repository contains two C++ programs that demonstrate **secure authentication mechanisms** using TOTP, XOR encryption, and simplified ECC-based key exchange for IoT devices.
 
 ## 📂 Files
-- **PROGECTEXB2.cpp**  
+- **TOTP_XOR_Auth.cpp**  
   Implements a simple **TOTP (Time-based One-Time Password) authentication** system with XOR encryption/decryption for secure message exchange.
 
-- **ProjectExb2new.cpp**  
+- **IoT_ECC_Auth.cpp**  
   Demonstrates an **IoT device registration and authentication system** using:
   - Simplified **Elliptic Curve Cryptography (ECC)**
   - **Time-based One-Time Password (TOTP)**
