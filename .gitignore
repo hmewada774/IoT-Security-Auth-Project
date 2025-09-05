@@ -1,0 +1,11 @@
+# Ignore build files
+*.exe
+*.out
+*.o
+*.obj
+
+# IDE files
+.vscode/
+*.code-workspace
+*.idea/
+*.DS_Store
